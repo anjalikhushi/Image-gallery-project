@@ -9,5 +9,5 @@ Anyone can view the listed images along with all the details.
 Note: We will use the MySQL Database to store all the image details.
 
 Final Application
-Image Gallery Spring Boot Application using MySQL and Thymeleaf
-Image Gallery Spring Boot Application using MySQL and Thymeleaf
+<img width="513" alt="Capturee" src="https://github.com/anjalikhushi/Image-gallery-project/assets/82653640/9808104b-8cbd-4aaf-b58e-8bd4a53a17f6">
+
